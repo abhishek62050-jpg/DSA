@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek62050-jpg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/abhishek62050-jpg/DSA/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/abhishek62050-jpg/DSA/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishek62050-jpg/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek62050-jpg/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek62050-jpg/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/abhishek62050-jpg/DSA/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/abhishek62050-jpg/DSA/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishek62050-jpg/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek62050-jpg/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |

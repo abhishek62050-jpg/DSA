@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek62050-jpg/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek62050-jpg/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/abhishek62050-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhishek62050-jpg/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishek62050-jpg/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek62050-jpg/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek62050-jpg/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/abhishek62050-jpg/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhishek62050-jpg/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |

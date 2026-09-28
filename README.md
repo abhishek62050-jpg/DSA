@@ -82,4 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek62050-jpg/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek62050-jpg/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek62050-jpg/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhishek62050-jpg/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

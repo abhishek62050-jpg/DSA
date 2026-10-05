@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhishek62050-jpg/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhishek62050-jpg/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/abhishek62050-jpg/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/abhishek62050-jpg/DSA/tree/master/0509-fibonacci-number) |
 ## Newton's Method
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishek62050-jpg/DSA/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/abhishek62050-jpg/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abhishek62050-jpg/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishek62050-jpg/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/abhishek62050-jpg/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
